@@ -1,0 +1,17 @@
++++
+date = "2019-04-30T10:50:08+02:00"
+title = "Projects SOKOs Test"
++++
+
+<br/>
+<div class="container">
+  <div class="jumbotron">
+    <h1 class="display-4">{{< translate page >}}</h1>
+    <p class="lead">  {{< translate title >}}.</p>
+    <hr class="my-4">
+    <p>  {{< translate info >}}</p>
+    <p class="lead">
+       <a class="btn btn-primary btn-lg" href="#" role="button">{{< translate btn >}}</a>
+    </p>
+  </div>
+</div>

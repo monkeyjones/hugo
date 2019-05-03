@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About SOKOs Test on SOKO Test site</title>
+    <link>http://localhost:1313/index.xml</link>
+    <description>Recent content in About SOKOs Test on SOKO Test site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Apr 2019 10:50:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About SOKOs Test</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 30 Apr 2019 10:50:08 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;jumbotron&#34;&gt;
+    &lt;h1 class=&#34;display-4&#34;&gt;
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	About Soko Test
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Acerca de Soko Test
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/h1&gt;
+    &lt;p class=&#34;lead&#34;&gt;  
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	Hello World
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Hola Mundo
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+.&lt;/p&gt;
+    &lt;hr class=&#34;my-4&#34;&gt;
+    &lt;p&gt;  
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	This is the about info
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Éste es el texto de acerca de
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/p&gt;
+    &lt;p class=&#34;lead&#34;&gt;
+       &lt;a class=&#34;btn btn-primary btn-lg&#34; href=&#34;#&#34; role=&#34;button&#34;&gt;
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	More
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Más info
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects SOKOs Test</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 30 Apr 2019 10:50:08 +0200</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div class=&#34;jumbotron&#34;&gt;
+    &lt;h1 class=&#34;display-4&#34;&gt;
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	Projects Soko Test
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Proyectos de Soko Test
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/h1&gt;
+    &lt;p class=&#34;lead&#34;&gt;
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	Hello World
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Hola Mundo
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+.&lt;/p&gt;
+    &lt;hr class=&#34;my-4&#34;&gt;
+    &lt;p&gt;  
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	This is the projects info
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Éste es el texto de proyectos
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/p&gt;
+    &lt;p class=&#34;lead&#34;&gt;
+       &lt;a class=&#34;btn btn-primary btn-lg&#34; href=&#34;#&#34; role=&#34;button&#34;&gt;
+
+
+
+	&lt;span class=&#34;hidden lng lng_en&#34;&gt;
+	More
+	&lt;/span&gt;
+
+	&lt;span class=&#34;hidden lng lng_es&#34;&gt;
+	Más info
+	&lt;/span&gt;
+
+
+&lt;script&gt;
+	var text=&#34;en&#34;;
+	
+	
+&lt;/script&gt;
+&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

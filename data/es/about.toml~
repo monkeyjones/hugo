@@ -1,0 +1,5 @@
+page = "Acerca de Soko Test"
+title = "Hola Mundo"
+info = "Éste es el texto de acerca de"
+help = "Texto de ayuda"
+btn = "Más info"

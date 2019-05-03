@@ -1,0 +1,38 @@
+
+<div class="navbar-wrapper">
+  <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only" aria-id="menu_change">Cambiar navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/.">            
+				<span class="logo_title">{{.Site.Title}}</span>
+			</a>
+        </div>
+		
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+ 	 
+ 	 			<!--
+  				{{ range .Site.Menus.main }}
+	            <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        		{{ end }}          
+          
+				{{ range .Site.Languages }}
+					<li><a href="{{ $.Permalink }}" class="btn_lng" aria-lng="{{ .Lang }}">{{ .LanguageName }}</a></li>
+				{{ end }}
+			 -->
+            <!--  
+            <li><a href="#book" aria-id="menu_book">projects</a></li>
+            <li><a href="#how" aria-id="menu_how">about</a></li>
+            <li><a href="#who" aria-id="menu_who">contacts</a></li>-->
+          </ul>
+        </div>
+		
+      </div>
+ </nav>
+ </div>

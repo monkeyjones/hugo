@@ -1,0 +1,9 @@
+title = "SOKO Test site"
+baseurl = "http://example.org/"
+theme = "test"
+relativeURLs = true
+defaultContentLanguage = "en" 
+
+[params]
+  author = "SokoTech"
+  description = "SOKO test site description"

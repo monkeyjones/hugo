@@ -1,0 +1,29 @@
++++
+date = "2019-04-30T10:50:08+02:00"
+title = "About SOKOs Test"
++++
+
+<div class="container">
+    
+  {{ .Site.Languages }}
+  {{ .Site.Language.Lang }}
+  <br/>  		
+  	am: {{ (index .Site.Languages 1).LanguageName }} a
+  	<br/>
+  		
+  	<ul>
+		{{ range .Site.Languages }}
+			<li><a href="#">{{ .LanguageName }}, {{ .Lang }}</a></li>
+		{{ end }}
+	</ul>
+
+  	<!--<ul>
+		{{ range $.AllTranslations }}
+			<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+		{{ end }}
+	</ul>-->
+  		 
+	{{ range first 10 .Data.Pages }}
+      <h2><a href={{ .Permalink }}>{{ .Title }}</a></h2>
+   {{ end }}
+</div>

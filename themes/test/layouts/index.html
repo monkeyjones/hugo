@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    {{- partial "header.html" . -}}
+      
+      <!--
+  		{{ .Site.Languages }}
+  		{{ .Site.Language.Lang }}
+  		<br/>  		
+  			ama: {{ (index .Site.Languages 1).LanguageName }} a
+  		<br/>
+  		
+  		<ul>
+			{{ range .Site.Languages }}
+				<li><a href="#">{{ .LanguageName }}, {{ .Lang }}</a></li>
+			{{ end }}
+		</ul>
+	 
+		{{ range first 10 .Data.Pages }}
+      	<h2><a href={{ .Permalink }}>{{ .Title }}</a></h2>
+   	{{ end }}
+	</div>    
+    -->
+    {{ .Content }}
+  	 {{- partial "footer.html" . -}}
+  </body>
+</html>
