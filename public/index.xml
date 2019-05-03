@@ -30,11 +30,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/h1&gt;
     &lt;p class=&#34;lead&#34;&gt;  
 
@@ -49,11 +44,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 .&lt;/p&gt;
     &lt;hr class=&#34;my-4&#34;&gt;
     &lt;p&gt;  
@@ -69,11 +59,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/p&gt;
     &lt;p class=&#34;lead&#34;&gt;
        &lt;a class=&#34;btn btn-primary btn-lg&#34; href=&#34;#&#34; role=&#34;button&#34;&gt;
@@ -89,11 +74,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;
@@ -123,11 +103,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/h1&gt;
     &lt;p class=&#34;lead&#34;&gt;
 
@@ -142,11 +117,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 .&lt;/p&gt;
     &lt;hr class=&#34;my-4&#34;&gt;
     &lt;p&gt;  
@@ -162,11 +132,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/p&gt;
     &lt;p class=&#34;lead&#34;&gt;
        &lt;a class=&#34;btn btn-primary btn-lg&#34; href=&#34;#&#34; role=&#34;button&#34;&gt;
@@ -182,11 +147,6 @@
 	&lt;/span&gt;
 
 
-&lt;script&gt;
-	var text=&#34;en&#34;;
-	
-	
-&lt;/script&gt;
 &lt;/a&gt;
     &lt;/p&gt;
   &lt;/div&gt;

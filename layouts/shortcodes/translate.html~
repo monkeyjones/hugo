@@ -2,7 +2,7 @@
 <!--{{index (index (index .Site.Data .Site.Language.Lang) (.Page.File.TranslationBaseName)) (.Get 0)}}-->
 
 {{ range $.Site.Languages }}
-	<span class="hidden lng_{{ .Lang }}">
+	<span class="hidden lng lng_{{ .Lang }}">
 	{{index (index (index $.Site.Data .Lang) ($.Page.File.TranslationBaseName)) ($.Get 0)}}
 	</span>
 {{ end }}
